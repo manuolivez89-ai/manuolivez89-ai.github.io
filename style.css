@@ -11,7 +11,7 @@ body {
 
 .foto {
 	flex: 1;
-	background-color: gray;
+	background-color: rgb(219, 140, 230);
 	display: flex;
 	align-items: center;
 	justify-content: center;

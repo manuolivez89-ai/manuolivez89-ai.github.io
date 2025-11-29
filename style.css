@@ -216,10 +216,12 @@ footer p {
     .sobre, .experiencias {
         padding: 40px 20px; /* Reduz padding lateral de 80px para 20px */
         flex-direction: column; /* Garante que fiquem um abaixo do outro */
+        background-color: rgb(219, 140, 230);
     }
 
     .sobre-mim, .habilidades, .formacao, .experiencia {
         width: 100%; /* Garante que ocupem a largura total */
         min-width: auto;
+         background-color: rgb(219, 140, 230);
     }
 }
